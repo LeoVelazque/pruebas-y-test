@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+    font-style: inherit;
+}
+
+footer{
+    background-color: rgb(85, 85, 202);
+    text-align: center;
+	padding: 50px 0 30px
+}
+
+#pie{
+    color: rgb(0, 0, 0);
+}
+
+header{
+    color: rgb(0, 140, 255);
+    padding: 20px;
+    text-align: center;
+    background-color: aliceblue;
+}
+nav{
+    background-color: black;
+    color: azure;
+    text-align: center;
+}
